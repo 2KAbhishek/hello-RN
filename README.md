@@ -23,10 +23,10 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Says Hello Everywhere 👋🏻✨</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/hello-rn/main/images/screenshot.png" alt="hello-rn Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/hello-rn/main/images/screenshot.jpg" alt="hello-rn Demo" style="width:100%">
   <br/>
   <figcaption>hello-rn screenshot</figcaption>
 </figure>
@@ -35,17 +35,19 @@
 
 ## What is this
 
-hello-rn is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+hello-rn is a multi-platform app that demos a few `React Native` features.
+
+P.S - Tap on the wave for a surprise!
 
 ## Inspiration
 
-hello-rn was inspired by `<reason/idea>`.
+Wanted to explore and learn more about `React Native` and its ecosystem.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `node` and `npm`
 
 ## Getting hello-rn
 
@@ -53,52 +55,29 @@ To install hello-rn, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/hello-rn
-cd hello-rn
-<install_command>
-```
-
-## Using hello-rn
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+cd hello-rn # React Native app
+cd hello-rn/android # Android app
+expo start # Start the app
 ```
 
 ## How it was built
 
-hello-rn was built using `<tech/library>`
+hello-rn was built using `React Native`, `Expo` and a bunch of other tools.
 
 ## Challenges faced
 
-While building hello-rn the main challenges were `<issue/difficulty>`
+Setting up the initial environment was a challenge, also the android build is too slow when trying to bull embeddable jars (Not sure why).
 
 ## What I learned
 
-While building hello-rn I `<learned/accomplished>` about `<learning/accomplishment>`
+- While building hello-rn I learned a lot about `React Native` and its ecosystem.
+- Learning about it's similarites and differences with other frameworks.
+- How `React` and `React Native` are similar.
+- `Expo` is a great tool and makes running hello-rn on mobile a breeze, it also makes it easy to debug and test.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+As a demo, this is feature complete, want to try a ios build once I get my hands on a mac.
 
 Hit the ⭐ button if you found this useful.
 
@@ -106,7 +85,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/hello-rn">Source</a> |
-<a href="https://2kabhishek.github.io/hello-rn">Website</a>
+<a href="https://github.com/2KAbhishek/hello-rn">Source</a> | <a href="https://2kabhishek.github.io/hello-rn">Website</a>
 
 </div>
