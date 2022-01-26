@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.iam2kabhishek.helloRN"
     },
     "web": {
       "favicon": "./assets/favicon.png"
